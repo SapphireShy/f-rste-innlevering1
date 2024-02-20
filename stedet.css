@@ -8,3 +8,11 @@ background-color: rgb(192, 176, 106);
     justify-content: space-around;
     align-items: center;
 }
+
+main{
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
