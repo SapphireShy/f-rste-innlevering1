@@ -13,18 +13,19 @@ margin: 0%;
 
 main{
     min-height: 100vh;
+}
+
+img{ 
+    width: 70%;
+    height: 70%;
+}
+
+div{
+    min-height: 100vh;
     display: flex;
     flex-direction: column;
     justify-content: center;
     align-items: center;
-}
-
-img{ 
-    width: 80%;
-    height: 80%;
-}
-
-div{
     margin-bottom: 200px;
 }
 
