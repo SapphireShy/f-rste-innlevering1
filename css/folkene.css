@@ -19,18 +19,22 @@ main{
     align-items: center;
 }
 
-footer{
-    display: flex;
-    flex-direction: row;
-    justify-content: space-around;
-    align-items: center; 
-}
-
 img{
     width: 62%;
     height: 62%;
 }
 
 div{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
     margin-bottom: 200px;
+}
+
+footer{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+    align-items: center; 
 }
