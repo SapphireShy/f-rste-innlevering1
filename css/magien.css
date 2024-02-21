@@ -26,6 +26,11 @@ div{
     align-items: center;
 }
 
+img{
+    width: 80%;
+    height: 80%;
+}
+
 footer{
     display: flex;
     flex-direction: row;
